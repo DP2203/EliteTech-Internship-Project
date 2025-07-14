@@ -5,7 +5,8 @@ Welcome to my Elite Tec Internship Project Portfolio! This repository showcases 
 ---
 
 ## 📚 Table of Contents
-1. Weather Dashboard (Project 1)
+1. Weather Dashboard (Project 1)-API INTEGRATION AND DATA
+VISUALIZATION
 2. Weather Report Generator (Project 2)
 3. Robo: Command-line Chatbot (Project 3)
 4. Spam Email Detection (Project 4)
@@ -15,7 +16,8 @@ Welcome to my Elite Tec Internship Project Portfolio! This repository showcases 
 
 ---
 
-## ☀️ Weather Dashboard (Project 1)
+## ☀️ Weather Dashboard (Project 1)-API INTEGRATION AND DATA
+VISUALIZATION
 A simple command-line weather dashboard using the WeatherAPI.com service. Fetches current weather for any city and visualizes temperature, humidity, and pressure in a bar chart.
 
 **Features:**
