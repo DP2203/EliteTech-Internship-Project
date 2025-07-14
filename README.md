@@ -5,19 +5,17 @@ Welcome to my Elite Tec Internship Project Portfolio! This repository showcases 
 ---
 
 ## 📚 Table of Contents
-1. Weather Dashboard (Project 1)-API INTEGRATION AND DATA
-VISUALIZATION
-2. Weather Report Generator (Project 2)
-3. Robo: Command-line Chatbot (Project 3)
-4. Spam Email Detection (Project 4)
+1. Weather Dashboard (Project 1)-API INTEGRATION AND DATA VISUALIZATION
+2. Weather Report Generator (Project 2)-AUTOMATED REPORT GENERATION
+3. Robo: Command-line Chatbot (Project 3)-AI CHATBOT WITH NLP
+4. Spam Email Detection (Project 4)-MACHINE LEARNING MODEL IMPLEMENTATION
 5. Challenges & Solutions
 6. Future Directions
 7. Installation & Setup
 
 ---
 
-## ☀️ Weather Dashboard (Project 1)-API INTEGRATION AND DATA
-VISUALIZATION
+## ☀️ Weather Dashboard (Project 1)-API INTEGRATION AND DATA VISUALIZATION
 A simple command-line weather dashboard using the WeatherAPI.com service. Fetches current weather for any city and visualizes temperature, humidity, and pressure in a bar chart.
 
 **Features:**
@@ -36,7 +34,7 @@ python weather_dashboard.py
 
 ---
 
-## 📄 Weather Report Generator (Project 2)
+## 📄 Weather Report Generator (Project 2)-AUTOMATED REPORT GENERATION
 Generates a comprehensive PDF weather report from a CSV file containing weather data for various cities.
 
 **Features:**
@@ -56,7 +54,7 @@ python weather_report_pdf.py
 
 ---
 
-## 🤖 Robo: Command-line Chatbot (Project 3)
+## 🤖 Robo: Command-line Chatbot (Project 3)-AI CHATBOT WITH NLP
 An interactive command-line chatbot built with Python and spaCy. Robo can answer questions, tell jokes, solve math problems, provide date/time info, and search Wikipedia.
 
 **Features:**
@@ -76,7 +74,7 @@ python chatbot.py
 
 ---
 
-## 📧 Spam Email Detection (Project 4)
+## 📧 Spam Email Detection (Project 4)-MACHINE LEARNING MODEL IMPLEMENTATION
 A comprehensive machine learning project that classifies emails as spam or legitimate using scikit-learn. Includes data preprocessing, multiple ML algorithms, evaluation, and interactive testing.
 
 **Features:**
