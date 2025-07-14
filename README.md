@@ -1,6 +1,6 @@
 # 🌟 Elite Tec Internship Project Portfolio
 
-Welcome to my Elite Tec Internship Project Portfolio! This repository showcases four diverse and practical projects completed during my internship, each demonstrating skills in Python, data science, machine learning, and software engineering.
+Welcome to my Elite Tec Internship Project Portfolio! This repository showcases four diverse and practical projects completed during my internship, each demonstrating skills in Python, machine learning, and software engineering.
 
 ---
 
