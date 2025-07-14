@@ -5,7 +5,7 @@ Welcome to my Elite Tec Internship Project Portfolio! This repository showcases 
 ---
 
 ## 📚 Table of Contents
-1. [Weather Dashboard (Project 1)](#Project-1-Weather-Dashboard-(Project-1))
+1. Weather Dashboard (Project 1)
 2. Weather Report Generator (Project 2)
 3. Robo: Command-line Chatbot (Project 3)
 4. Spam Email Detection (Project 4)
